@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-demo",
+  "version": "1.0.0",
+  "description": "Testing next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilbergs/nextjs-demo.git"
+  },
+  "author": "Vilberg Eliasson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vilbergs/nextjs-demo/issues"
+  },
+  "homepage": "https://github.com/vilbergs/nextjs-demo#readme"
+}
